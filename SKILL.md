@@ -22,6 +22,7 @@ Under a "don't flatter me, say it even if it stings" brief, readers reliably res
 1. **Every claim carries a grade.** Use exactly these:
    - `narrated once` — a single line. A journal line is a discharge event, not a deposition. Supports a question, never a trait.
    - `narrated, recurring` — same content across years/contexts. Supports a pattern claim, hedged.
+   - `narrated, recurring, self-recognized` — the subject names the pattern *themselves*, across multiple entries, not once in passing. Their repeated testimony is corroboration: supports a direct claim, stated nearly as confidently as `behavior-corroborated`. Softening a pattern the subject has already diagnosed patronizes them.
    - `behavior-corroborated` — actions, attendance, files, calendar. Supports a confident claim.
    - `behavior-contradicted` — say so, and the claim dies or shrinks.
 2. **Absence is a question, never a finding.** "X never appears" licenses asking about X, nothing more. Base-rate check first: a parent dead fifteen years appears less than a parent phoned weekly, for reasons requiring no psychology.
@@ -36,10 +37,10 @@ Under a "don't flatter me, say it even if it stings" brief, readers reliably res
 
 Kindness here is not a tone pass — it is part of the evidence policy:
 
-- **Generous tie-break.** When the evidence supports two readings, the generous one leads; the harsh one appears only if it strictly out-grades it.
-- **Harshness raises the bar.** A harsh claim requires `behavior-corroborated`; at `narrated, recurring` it becomes a gentle question; at `narrated once` it doesn't appear. The readings that would sting most are omitted or moved to "Questions to sit with."
-- **Warm address.** Write to the subject, not about a specimen. Every hard finding names what the pattern costs them and what it protects — or once protected.
-- **Never touched:** grades (`narrated once` is never promoted), the ban on fabricated praise, and rule 7 — suicidality is never softened, never omitted.
+- **Generous tie-break, visible ties.** When one reading out-grades the other, the stronger one leads. When two readings *tie* on grade, present both — generous first — rather than silently dropping the harsh one. The gate may demote a harsh reading; it may not disappear it: anything demoted or omitted is logged in "Set aside" (§9).
+- **Harshness raises the bar.** A harsh claim requires `behavior-corroborated` or `narrated, recurring, self-recognized`; at plain `narrated, recurring` it becomes a gentle question; at `narrated once` it doesn't appear as a claim. **Demotion preserves evidence:** a claim demoted to a question keeps its dated quotes — a question with the evidence stripped out is euphemism, not kindness.
+- **Warm address, bill first.** Write to the subject, not about a specimen. For every confirmed hard finding, state the cost bluntly in one sentence *before* the warm framing — what the pattern costs them, then what it protects or once protected. Warmth placed ahead of the bill reads as burial.
+- **Never touched:** grades (`narrated once` is never promoted — self-recognition requires recurrence), the ban on fabricated praise, rule 7 — suicidality is never softened, never omitted — and the "Set aside" log, which is what keeps this gate auditable instead of invisible.
 
 ## Output contract
 
@@ -53,6 +54,7 @@ The document contains these sections, in order:
 6. **Patterns**
 7. **Blind spots** — framed as gentle questions, not verdicts.
 8. **Questions to sit with** — the close; no verdicts.
+9. **Set aside** — an appendix listing every harsh reading that was considered and demoted or omitted: one line each — the evidence that raised it, the grade it reached, why it didn't clear the bar. This is what makes the kindness gate auditable rather than invisible; the subject can overrule the triage, and an overruled entry is promoted visibly in the next edition. (Omit the section only if nothing was set aside — and treat that as a red flag in itself: a long archive that generates zero demoted readings usually means you weren't looking.)
 
 Every characterological claim follows the same contract: the claim → cited dated quotes → the grade → the strongest mundane alternative → what would change the verdict.
 
@@ -75,6 +77,8 @@ When the subject pushes back: **verify against the archive before conceding or h
 | "Kindness means hiding the pattern" | Kindness is framing and thresholds; a `behavior-corroborated` pattern still gets named, warmly. |
 | "It's a vivid, devastating quote" | Vivid ≠ recurring. One line is one discharge event. |
 | "The insight will help even if overstated" | Overstated insights get the whole document deleted. Calibration is what makes it usable. |
+| "It would sting, so it's kinder to leave it out entirely" | Demote it and log it in Set aside. The gate filters presentation, never existence. |
+| "They said it about themselves, so I can state it as fact" | Once is not self-recognized. The tier requires the subject naming it across entries. |
 
 ## Red flags — stop and re-grade
 
@@ -82,4 +86,7 @@ When the subject pushes back: **verify against the archive before conceding or h
 - A section's evidence is mostly what the person *didn't* write.
 - You can't state the mundane alternative because you haven't thought of one.
 - Every ambiguity in the draft resolved toward indictment.
+- A harsh reading disappeared between drafts without leaving a line in "Set aside."
+- You demoted a claim to a question and its dated quotes went with it.
+- The subject has named a pattern in their own words more than once and your draft still calls it "a gentle question."
 - You're proud of a sentence. Check its grade first.
